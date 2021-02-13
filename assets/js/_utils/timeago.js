@@ -18,7 +18,7 @@ $(function() {
 
     if (past.getFullYear() !== now.getFullYear()) {
       toRefresh -= 1;
-      return past.toLocaleString("en-US", {
+      return past.toLocaleString("pt_BR", {
         year: "numeric",
         month: "short",
         day: "numeric"
