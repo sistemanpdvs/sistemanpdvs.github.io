@@ -3,7 +3,7 @@ title: Concluir conhecimento aguardando conclusão.
 author: Nilsonlinux
 date: 2021-02-13 18:32:00 -0500
 categories: [Gmcore, Tutorial]
-tags: [google analytics, pageviews]
+tags: [gmcore, ajuda]
 ---
 
 ### GMCORE
