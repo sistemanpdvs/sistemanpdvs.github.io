@@ -132,7 +132,7 @@ defaults:
       location: Tag
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
         -
           label: Tags
@@ -145,7 +145,7 @@ defaults:
       location: Category
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
         -
           label: Categories
@@ -158,7 +158,7 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: Home
+          label: Inicio
           url: /
 
 
