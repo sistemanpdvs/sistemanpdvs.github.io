@@ -1,7 +1,7 @@
 ---
 title: Concluir conhecimento aguardando conclusão.
 author: Nilsonlinux
-date: 2021-02-13 18:32:00 -0500
+date: 2021-02-13 18:32:00 -03
 categories: [Gmcore, Tutorial]
 tags: [gmcore, ajuda]
 ---
