@@ -1,8 +1,8 @@
 ---
-title: Enable Google Page Views
-author: Dinesh Prasanth Moluguwan Krishnamoorthy
-date: 2021-01-03 18:32:00 -0500
-categories: [Blogging, Tutorial]
+title: Concluir conhecimento aguardando conclusão.
+author: Nilsonlinux
+date: 2021-02-13 18:32:00 -0500
+categories: [Gmcore, Tutorial]
 tags: [google analytics, pageviews]
 ---
 
