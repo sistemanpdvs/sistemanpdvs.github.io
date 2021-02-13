@@ -18,6 +18,10 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+-
+  type: facebook
+  icon: 'fas fa-facebook'
+  noblank: true            # open link in current tab
 
 # Uncomment and complete the url below to enable more contact options
 # -
