@@ -1,6 +1,6 @@
 ---
-title: About
-icon: fas fa-info
+title: Contribuir
+icon: fas fa-donate
 order: 4
 ---
 
