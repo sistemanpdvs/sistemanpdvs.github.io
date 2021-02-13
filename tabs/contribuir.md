@@ -1,5 +1,5 @@
 ---
-title: Contribuir
+title: Contribuir com o projeto
 icon: fas fa-donate
 order: 4
 ---
