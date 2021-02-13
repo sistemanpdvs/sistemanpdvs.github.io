@@ -10,7 +10,10 @@ order: 4
 > Faça um PIX agora mesmo. 
 ```python 
 Chave  PIX:
-```  
-<kbd>nilsonlinux@gmail.com</kbd>
+```
+```yaml
+nilsonlinux@gmail.com
+```
+<kbd>Obrigado</kbd>
 
 ![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/donate.png)
