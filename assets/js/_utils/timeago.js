@@ -27,7 +27,7 @@ $(function() {
 
     if (past.getMonth() !== now.getMonth()) {
       toRefresh -= 1;
-      return past.toLocaleString("en-US", {
+      return past.toLocaleString("pt_BR", {
         month: "short",
         day: "numeric"
       });
@@ -51,7 +51,7 @@ $(function() {
       return minute + " minute" + (minute > 1 ? "s" : "") + " ago";
     }
 
-    return (isLastmod ? "just" : "Just") + " now";
+    return (isLastmod ? "just" : "Ainda") + " hoje";
   }
 
   function updateTimeago() {
