@@ -7,7 +7,13 @@ tags: [google analytics, pageviews]
 ---
 
 
-This post is to enable Page Views on the [**Chirpy**][chirpy-homepage] theme based blog that you just built. This requires technical knowledge and it's recommended to keep the `google_analytics.pv` disabled unless you have a good reason. If your website has low traffic, the page views count would discourage you to write more blogs. With that said, let's start with the setup.
+Quando o recebimento identificar como falta algum produto e necessitar fazer a devoluçao no ato
+do recebimento, a placa ficará em status de descarregado, todavia o conhecimento ficará
+aguardando conclusao na rotina 413, segue os passos abaixo para concluir o conhecimento
+mediante esta situação.
+Para saber o numero do conhecimento abra esta tela aqui:
+
+
 
 ## Set up Google Analytics
 
