@@ -38,17 +38,17 @@ $(function() {
     let day = Math.floor(seconds / 86400);
     if (day >= 1) {
       toRefresh -= 1;
-      return day + " dia" + (day > 1 ? "s" : "") + " ago";
+      return day + " dia" + (day > 1 ? "s" : "") + " atrás";
     }
 
     let hour = Math.floor(seconds / 3600);
     if (hour >= 1) {
-      return hour + " hora" + (hour > 1 ? "s" : "") + " ago";
+      return hour + " hora" + (hour > 1 ? "s" : "") + " atrás";
     }
 
     let minute = Math.floor(seconds / 60);
     if (minute >= 1) {
-      return minute + " minuto" + (minute > 1 ? "s" : "") + " ago";
+      return minute + " minuto" + (minute > 1 ? "s" : "") + " atrás";
     }
 
     return (isLastmod ? "just" : "Ainda") + " hoje";
