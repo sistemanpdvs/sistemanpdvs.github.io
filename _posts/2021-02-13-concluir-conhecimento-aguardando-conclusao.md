@@ -6,12 +6,20 @@ categories: [Blogging, Tutorial]
 tags: [google analytics, pageviews]
 ---
 
+## Concluir conhecimento aguardando conclusão.
 
 Quando o recebimento identificar como falta algum produto e necessitar fazer a devoluçao no ato
 do recebimento, a placa ficará em status de descarregado, todavia o conhecimento ficará
 aguardando conclusao na rotina 413, segue os passos abaixo para concluir o conhecimento
 mediante esta situação.
 Para saber o numero do conhecimento abra esta tela aqui:
+
+![imagem 1](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/gm1.png)
+
+```console
+Abre a rotina 413, no botao pesquisar, digita o conhecimento que aparece disponivel na
+portaria na própria placa, informe o conhecimento e clica em pesquisar.
+```
 
 
 
