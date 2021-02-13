@@ -10,12 +10,12 @@
 
 title: SISTEMANPDVS                          # the main title
 
-tagline: Record something  # it will display as the sub-title
+tagline: Informações e ajuda  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Gmcore, Super mateus, mix, eletro, camiño.
+  Informações filiais, problemas e soluções,
+  ajuda e muito mais.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://sistemanpdvs.github.io'
