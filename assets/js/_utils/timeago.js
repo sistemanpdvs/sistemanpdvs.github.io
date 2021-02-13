@@ -48,7 +48,7 @@ $(function() {
 
     let minute = Math.floor(seconds / 60);
     if (minute >= 1) {
-      return minute + " minutos" + (minute > 1 ? "s" : "") + " ago";
+      return minute + " minuto" + (minute > 1 ? "s" : "") + " ago";
     }
 
     return (isLastmod ? "just" : "Ainda") + " hoje";
