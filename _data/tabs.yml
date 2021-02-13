@@ -27,4 +27,4 @@
   name: "Sobre"
   icon: "fas fa-info"
   path: tabs
-  url: about
+  url: sobre
