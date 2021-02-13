@@ -12,6 +12,7 @@ order: 4
 ```yaml
 CHAVE PIX: nilsonlinux@gmail.com
 ```
-<kbd>Obrigado</kbd>
+CHAVE PIX `nilsonlinux@gmail.com`
+<kbd>Obrigado...</kbd>
 
 ![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/donate.png)
