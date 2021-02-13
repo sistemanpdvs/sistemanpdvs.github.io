@@ -6,7 +6,7 @@
 
 
 -
-  name: Home
+  name: Inicio
   icon: "fas fa-home"
 -
   name: Categories
@@ -24,7 +24,7 @@
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About"
+  name: "Sobre"
   icon: "fas fa-info"
   path: tabs
   url: about
