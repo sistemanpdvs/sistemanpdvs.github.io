@@ -9,4 +9,4 @@ order: 4
  Não importa o valor de sua doação. Saiba que todo pequeno esforço, significa uma grande diferença.
  Faça um PIX agora mesmo. 
  
-![PIX](https://github.com/sistemanpdvs/npdvs-grafico/blob/main/img/doe.png)
+![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/donate.png)
