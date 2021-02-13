@@ -6,8 +6,6 @@ categories: [Gmcore, Tutorial]
 tags: [google analytics, pageviews]
 ---
 
-## Concluir conhecimento aguardando conclusão.
-
 Quando o recebimento identificar como falta algum produto e necessitar fazer a devoluçao no ato
 do recebimento, a placa ficará em status de descarregado, todavia o conhecimento ficará
 aguardando conclusao na rotina 413, segue os passos abaixo para concluir o conhecimento
