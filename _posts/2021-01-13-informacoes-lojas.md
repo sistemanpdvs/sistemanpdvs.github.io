@@ -1,13 +1,14 @@
 ---
 title: Tabela lojas (REGIONAL SANTA INÊS)
 author: Nilsonlinux
-date: '2021-02-13 20:22:31 -03'
-categories: [Gmcore, Tutorial]
-tags: [gmcore, ajuda]
+date: 2021-02-13 20:22:31 -03
+categories: []
+tags:
+- gmcore
 mathjax: true
----
 
-  |  LOJA | TEF  | NOME / CIDADE                         | FAIXA |
+---
+|  LOJA | TEF  | NOME / CIDADE                         | FAIXA |
   |:-----:|:----:|:-------------------------------------:|:-----:|
   | `03`  |`3`   | MATEUS SANTA INÊS                     | `3`   |
   | `32`  |`69`  | MIX MATEUS - TIMON                    | `46`  |
