@@ -21,11 +21,9 @@
 -
   type: telegram
   icon: 'fas fa-telegram'
-  noblank: true
 -
   type: facebook
   icon: 'fas fa-facebook'
-  noblank: true
 
 # Uncomment and complete the url below to enable more contact options
 # -
