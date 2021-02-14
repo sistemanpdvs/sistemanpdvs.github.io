@@ -25,10 +25,6 @@ platforms:
     type: Whatsapp
     icon: "fab fa-whatsapp"
     link: "https://web.whatsapp.com/share?text=TITLE&url=URL"
-    -
-    type: Vk
-    icon: "fab fa-vk"
-    link: "https://web.whatsapp.com/share?text=TITLE&url=URL"
 
   # Uncomment below if you need to.
   # -
