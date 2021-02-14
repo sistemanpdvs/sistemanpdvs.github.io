@@ -68,6 +68,8 @@
     {% capture url %}
       {%- if entry.type == 'github' -%}
         https://github.com/{{ site.github.username }}
+       {%- if entry.type == 'telegram' -%}
+        https://t.me/{{ site.telegram.username }}
       {%- elsif entry.type == 'twitter' -%}
         https://twitter.com/{{ site.twitter.username }}
       {%- elsif entry.type == 'email' -%}
