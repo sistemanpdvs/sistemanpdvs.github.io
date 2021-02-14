@@ -70,7 +70,7 @@
         https://github.com/{{ site.github.username }}
        {%- if entry.type == 'telegram' -%}
         https://t.me/{{ site.telegram.username }}
-      {%- elsif entry.type == 'twitter' -%}
+      {%- elsif entry.type == 'telegram' -%}
         https://twitter.com/{{ site.twitter.username }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
