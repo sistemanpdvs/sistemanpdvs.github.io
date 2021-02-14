@@ -143,7 +143,7 @@ defaults:
           url: /tabs/tags/
   -
     scope:
-      path: categories
+      path: categorias
     values:
       tab_active: Categories
       location: Category
@@ -152,7 +152,7 @@ defaults:
           label: Inicio
           url: /
         -
-          label: Categories
+          label: Categorias
           url: /tabs/categories/
   -
     scope:
