@@ -6,11 +6,11 @@ categories: [Gmcore, Tutorial]
 tags: [gmcore, ajuda]
 ---
 
-##            PAINEL LOJAS - REGIONAL SANTA INÊS            
+**  PAINEL LOJAS - REGIONAL SANTA INÊS **          
 
 ##  LOJAS | TEFs | CIDADE                             FAIXA 
-    ` 3 `   ` 3 `   *SUPER SANTA INÊS*                ` 3 `
-  |  32   | 69   | MIX TIMON                         |  46   |
+    ` 3 `   ` 3 `   **SUPER SANTA INÊS**                ` 3 `
+    ` 32 ` ` 69  ** MIX TIMON       **                  ` 46  `
   |  39   | 116  | MIX CHAPADINHA                    |  114  |
   |  40   | 178  | SUPER BARRA DO CORDA              |  231  |
   |  41   | 134  | MIX CAXIAS                        |  11   |
