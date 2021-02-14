@@ -7,14 +7,14 @@ tags: [gmcore, ajuda]
 ---
 
 **PAINEL LOJAS - REGIONAL SANTA INÊS**  
-Filial `03`  Tef `3`   SUPER SANTA INÊS               Faixa `3`  
-Filial `32`  Tef `69`  MIX TIMON                      Faixa `46`  
-Filial `39`  Tef `116` MIX CHAPADINHA                 Faixa `114`  
-Filial `40`  Tef `178` SUPER BARRA DO CORDA           Faixa `231`  
-Filial `41`  Tef `134` MIX CAXIAS                     Faixa `11`  
-Filial `42`  Tef `183` SUPER PRESIDENTE DUTRA         Faixa `139`  
-Filial `47`  Tef `118` MIX BACABAL                    Faixa `115`  
-Filial `48`  Tef `99`  MIX PEDREIRAS                  Faixa `93`  
+Filial `03`  Tef `3`   <kbd>SUPER SANTA INÊS</kbd>               Faixa `3`  
+Filial `32`  Tef `69`  <kbd>MIX TIMON</kbd>                      Faixa `46`  
+Filial `39`  Tef `116` <kbd>MIX CHAPADINHA</kbd>                 Faixa `114`  
+Filial `40`  Tef `178` <kbd>SUPER BARRA DO CORDA</kbd>           Faixa `231`  
+Filial `41`  Tef `134` <kbd>MIX CAXIAS</kbd>                     Faixa `11`  
+Filial `42`  Tef `183` <kbd>SUPER PRESIDENTE DUTRA</kbd>         Faixa `139`  
+Filial `47`  Tef `118` <kbd>MIX BACABAL</kbd>                    Faixa `115`  
+Filial `48`  Tef `99`  <kbd>MIX PEDREIRAS</kbd>                  Faixa `93`  
 Filial `91`  Tef `45`  MIX SANTA INÊS                 Faixa `91`  
 Filial `97`  Tef `179` MIX MATEUS TERESINA CEASA      Faixa `160`  
 Filial `99`  Tef `130` MIX PINHEIRO                   Faixa `117`  
