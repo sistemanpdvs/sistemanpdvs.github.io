@@ -1,8 +1,7 @@
 ---
-layout: tags
 title: Tags
-icon: fas fa-tags
-order: 2
+type: tags
+# All the Tags of posts.
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2017-2019 Cotes Chung
@@ -28,3 +27,4 @@ order: 2
 {% endfor %}
 
 </div>
+
