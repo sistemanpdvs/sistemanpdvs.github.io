@@ -6,12 +6,12 @@
 
 
 panel:
-  lastmod: "Recent Update"
-  trending_tags: "Trending Tags"
-  toc: "Contents"
+  lastmod: "Atualização recente"
+  trending_tags: "Tags populares"
+  toc: "Conteúdo"
 
 post:
-  relate_posts: "Further Reading"
+  relate_posts: "Leitura Adicional"
   button:
     next: Próximo
     previous: Voltar
