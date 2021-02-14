@@ -6,7 +6,6 @@ categories: [Gmcore, Tutorial]
 tags: [gmcore, ajuda]
 ---
 
-**PAINEL LOJAS - REGIONAL SANTA INÊS**  
   | LOJAS | TEFs | CIDADE                            | FAIXA |
   |:-----:|:----:|:---------------------------------:|:-----:|
   |  3    | 3    | SUPER SANTA INÊS                  |  3    |
