@@ -1,9 +1,11 @@
 ---
 title: Tabela lojas (REGIONAL SANTA INÊS)
 author: Nilsonlinux
-date: 2021-02-13 20:22:31 -03
-categories: []
-tags: []
+date: 2021-02-13T20:22:31.000-03:00
+categories:
+- info
+tags:
+- info
 mathjax: true
 
 ---
