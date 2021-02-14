@@ -9,25 +9,25 @@ mathjax: true
 
   |  LOJA | TEF  | CIDADE                            | FAIXA |
   |:-----:|:----:|:---------------------------------:|:-----:|
-  | `03`  |`3`   | SUPER SANTA INÊS                  | `3`   |
-  | `32`  |`69`  | MIX TIMON                         | `46`  |
-  | `39`  |`116` | MIX CHAPADINHA                    | `114` |
-  | `40`  |`178` | SUPER BARRA DO CORDA              | `231` |
-  | `41`  |`134` | MIX CAXIAS                        | `11`  |
-  | `42`  |`183` | SUPER PRESIDENTE DUTRA            | `139` |
-  | `47`  |`118` | MIX BACABAL                       | `115` |
-  | `48`  |`99`  | MIX PEDREIRAS                     | `93`  |
-  | `91`  |`45`  | MIX SANTA INÊS                    | `91`  |
-  | `97`  |`179` | MIX MATEUS TERESINA CEASA         | `160` |
-  | `99`  |`130` | MIX PINHEIRO                      | `117` |
-  | `55`  |`61`  | ELETRO PRESIDENTE DRUTRA          | `55`  |
-  | `65`  |`44`  | ELETRO SANTA INÊS                 | `65`  |
-  | `68`  |`43`  | ELETRO SANTA LUZIA                | `68`  |
-  | `69`  |`36`  | ELETRO PEDREIRAS                  | `69`  |
-  | `79`  |`35`  | ELETRO LAGO DA PEDRA              | `79`  |
-  | `131` |`68`  | ELETRO BACABAL                    | `131` |
-  | `163` |`147` | ELETRO COROATÁ                    | `37`  |
-  | `164` |`136` | ELETRO TIMON                      | `166` |
+  | `03`  |`3`   | MATEUS SANTA INÊS                 | `3`   |
+  | `32`  |`69`  | MIX MATEUS - TIMON                | `46`  |
+  | `39`  |`116` | MIX MATEUS - CHAPADINHA           | `114` |
+  | `40`  |`178` | MATEUS BARRA DO CORDA             | `231` |
+  | `41`  |`134` | MIX MATEUS - CAXIAS               | `11`  |
+  | `42`  |`183` | MATEUS - SUPER PRESIDENTE DUTRA   | `139` |
+  | `47`  |`118` | MIX MATEUS - BACABAL              | `115` |
+  | `48`  |`99`  | MIX MATEUS- PEDREIRAS             | `93`  |
+  | `91`  |`45`  | MIX MATEUS - SANTA INES           | `91`  |
+  | `97`  |`179` | MIX MATEUS TERESINA - CEASA       | `160` |
+  | `99`  |`130` | MIX MATEUS - PINHEIRO             | `117` |
+  | `55`  |`61`  | ELETRO MATEUS - PRES. DUTRA       | `55`  |
+  | `65`  |`44`  | ELETRO MATEUS - SANTA INÊS        | `65`  |
+  | `68`  |`43`  | ELETRO MATEUS - SANTA LUZIA       | `68`  |
+  | `69`  |`36`  | ELETRO MATEUS - PEDREIRA          | `69`  |
+  | `79`  |`35`  | ELETRO MATEUS - LAGO DA PEDRA     | `79`  |
+  | `131` |`68`  | ELETRO MATEUS - BACABAL           | `131` |
+  | `163` |`147` | ELETRO MATEUS - COROATA           | `37`  |
+  | `164` |`136` | ELETRO MATEUS - TIMON             | `166` |
   | `165` |`148` | ELETRO VIANA                      | `167` |
   | `170` |`152` | ELETRO SÃO MATEUS                 | `168` |
   | `172` |`172` | ELETRO MATEUS PAISSANDU           | `213` |
