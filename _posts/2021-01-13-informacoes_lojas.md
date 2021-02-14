@@ -8,7 +8,7 @@ tags: [gmcore, ajuda]
 
 **PAINEL LOJAS - REGIONAL SANTA INÊS**          
 
-##  LOJAS | TEFs | CIDADE                             FAIXA 
+LOJA  TEF          CIDADE                            FAIXA 
 `3`   `3`  <kbd>SUPER SANTA INÊS</kbd>                `3`
 `32`  `69`  **MIX TIMON**                             `46`
   |  39   | 116  | MIX CHAPADINHA                    |  114  |
