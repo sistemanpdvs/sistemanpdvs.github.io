@@ -4,6 +4,7 @@ author: Nilsonlinux
 date: '2021-02-13 20:22:31 -03'
 categories: [Gmcore, Tutorial]
 tags: [gmcore, ajuda]
+mathjax: true
 ---
 
   |  LOJA | TEF  | CIDADE                            | FAIXA |
@@ -59,4 +60,4 @@ tags: [gmcore, ajuda]
 
 | SUPER & MIX         | ELETRO          | CAMINÑO         | Total       |
 |---------------------|:----------------|----------------:|:-----------:|
-| `15`✓               | `22` ✓          | `09` ✓          | `46`        |
+| $$`15`✓               | $$`22` ✓          | $$`09` ✓          | `46`   $$f(x) = \sin(x+y)$$     |
