@@ -1,11 +1,9 @@
-title: 'Tabela de lojas REGIONAL SANTA INÊS'
+---
+title: Tabela de lojas REGIONAL SANTA INÊS
+author: Nilsonlinux
 date: '2021-02-13 20:22:31 -03'
-categories:
-  - informações
-  - detalhe
-tags:
-  - tefs
-published: regional
+categories: [Gmcore, Tutorial]
+tags: [gmcore, ajuda]
 ---
 
 ```python
