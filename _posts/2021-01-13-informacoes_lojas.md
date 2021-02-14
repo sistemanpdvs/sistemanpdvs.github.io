@@ -9,8 +9,7 @@ tags: [gmcore, ajuda]
 ##            PAINEL LOJAS - REGIONAL SANTA INÊS            
 
 ##  LOJAS | TEFs | CIDADE                             FAIXA 
-  ------------------------------------------------------------
- ` 3 `   `  3 `   * SUPER SANTA INÊS                 `  3   `
+    ` 3 `   ` 3 `   * SUPER SANTA INÊS *                ` 3 `
   |  32   | 69   | MIX TIMON                         |  46   |
   |  39   | 116  | MIX CHAPADINHA                    |  114  |
   |  40   | 178  | SUPER BARRA DO CORDA              |  231  |
