@@ -54,8 +54,6 @@ tags: [gmcore, ajuda]
   |  439  | 145  | CAMINO MIRANDA DO NONRTE          |  170  |
   |  445  | 176  | CAMINO ITAPECURÚMIRINM            |  146  |
   |  446  | 175  | CAMINO SANTA LUZIA                |       |
-  |  447  | 174  | CAMINO TUTÓIA                     |  193  |
-  
-`TOTAL` - `46` FILIAIS                   
+  |  447  | 174  | CAMINO TUTÓIA                     |  193  |            
 
                      
