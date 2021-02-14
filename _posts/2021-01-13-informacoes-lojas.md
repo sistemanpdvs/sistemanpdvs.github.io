@@ -8,7 +8,7 @@ tags: [gmcore, ajuda]
 
 **PAINEL LOJAS - REGIONAL SANTA INÊS**  
   | LOJAS | TEFs | CIDADE                            | FAIXA |
-  | :---: | :---:| :---:                             | :---: |
+  |:-----:|:----:|:---------------------------------:|:-----:|
   |  3    | 3    | SUPER SANTA INÊS                  |  3    |
   |  32   | 69   | MIX TIMON                         |  46   |
   |  39   | 116  | MIX CHAPADINHA                    |  114  |
@@ -57,3 +57,10 @@ tags: [gmcore, ajuda]
   |  447  | 174  | CAMINO TUTÓIA                     |  193  |            
 
                      
+
+| File(s)             | From Favicon & App Icon Generator | From Chirpy |
+|---------------------|:---------------------------------:|:-----------:|
+| `*.PNG`             | ✓                                 | ✗           |
+| `*.ICO`             | ✓                                 | ✗           |
+| `browserconfig.xml` | ✗                                 | ✓           |
+| `manifest.json`     | ✗                                 | ✓           |
