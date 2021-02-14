@@ -145,15 +145,15 @@ defaults:
     scope:
       path: categorias
     values:
-      tab_active: Categories
-      location: Category
+      tab_active: Categorias
+      location: Categorias
       breadcrumb:
         -
           label: Inicio
           url: /
         -
           label: Categorias
-          url: /tabs/categories/
+          url: /tabs/categorias/
   -
     scope:
       path: tabs
