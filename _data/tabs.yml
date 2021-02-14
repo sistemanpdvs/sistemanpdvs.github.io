@@ -9,19 +9,19 @@
   name: Inicio
   icon: "fas fa-home"
 -
-  name: Categories
+  name: Categorias
   icon: "fas fa-stream"
   path: tabs
-  url: categories
+  url: categorias
 -
   name: "Tags"
   icon: "fas fa-tags"
   path: tabs
   url: tags
 -
-  name: "Archives"
+  name: "Arquivos"
   path: tabs
-  url: archives
+  url: arquivos
   icon: "fas fa-archive"
 -
   name: "Sobre"
