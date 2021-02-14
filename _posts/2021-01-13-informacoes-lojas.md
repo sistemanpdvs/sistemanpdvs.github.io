@@ -8,7 +8,7 @@ tags: [gmcore, ajuda]
 
   | LOJAS | TEFs | CIDADE                            | FAIXA |
   |:-----:|:----:|:---------------------------------:|:-----:|
-  |  3    | 3    | SUPER SANTA INÊS                  |  3    |
+  | `3`   |`3`   | SUPER SANTA INÊS                  | `3`   |
   |  32   | 69   | MIX TIMON                         |  46   |
   |  39   | 116  | MIX CHAPADINHA                    |  114  |
   |  40   | 178  | SUPER BARRA DO CORDA              |  231  |
@@ -38,11 +38,11 @@ tags: [gmcore, ajuda]
   |  182  | 164  | ELETRO CODÓ SÃO SEBASTIÃO         |  184  |
   |  183  | 200  | ELETRO MATEUS KENNEDY             |  204  |
   |  189  | 199  | ELETRO MATEUS PRESIDENTE DUTRA II |  221  |
-  |  192  | 208  | ELETRO MATEUS VARGEM GRANDE       |
+  |  192  | 208  | ELETRO MATEUS VARGEM GRANDE       |   ✗   |
   |  196  | 201  | ELETRO VITORINO FREIRI            |  212  |
   |  602  | 209  | ELETRO MATEUS CEASA - PI          |  141  |
   |  202  | 188  | SUPER CODÓ                        |  142  |
-  |  207  |      | SUPER BURITICUPÚ                  |       | 
+  |  207  |  ✗   | SUPER BURITICUPÚ                  |   ✗   | 
   |  251  | 163  | MIX PNARNAÍNBA                    |  118  |
   |  252  | 161  | MIX TERESINA                      |  161  |
   |  431  | 133  | CAMINO LAGO DA PEDRA              |  144  |
@@ -52,7 +52,7 @@ tags: [gmcore, ajuda]
   |  436  | 143  | CAMINO SANTA INÊS                 |  169  |
   |  439  | 145  | CAMINO MIRANDA DO NONRTE          |  170  |
   |  445  | 176  | CAMINO ITAPECURÚMIRINM            |  146  |
-  |  446  | 175  | CAMINO SANTA LUZIA                |       |
+  |  446  | 175  | CAMINO SANTA LUZIA                |   ✗   |
   |  447  | 174  | CAMINO TUTÓIA                     |  193  |            
 
                      
