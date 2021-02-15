@@ -6,8 +6,8 @@ categories:
 - Gmcore
 - Tutorial
 tags:
-- gmcore
-- ajuda
+- Gmcore
+- Ajuda
 
 ---
 
