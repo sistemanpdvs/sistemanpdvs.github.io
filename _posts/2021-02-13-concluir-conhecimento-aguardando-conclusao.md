@@ -3,7 +3,6 @@ title: Concluir conhecimento aguardando conclusão.
 author: Nilsonlinux
 date: 2021-02-13T18:32:00.000-03:00
 categories:
-image: /assets/img/Posts/npdvs.png
 - Gmcore
 - Tutorial
 tags:
