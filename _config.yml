@@ -26,6 +26,9 @@ avatar: /assets/img/sample/avatar.png   # support internet resources
 
 github:
   username: sistemanpdvs             # change to your github username
+  
+vk:
+  username: nilsonlinux             # change to your github username
 
 twitter:
   username: nilsonlinux            # change to your twitter username
