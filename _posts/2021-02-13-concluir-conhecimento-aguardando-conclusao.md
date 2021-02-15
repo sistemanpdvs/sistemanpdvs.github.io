@@ -43,7 +43,6 @@ o conhecimento.
 
 ![imagem 4](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/gm4.png)
 
-> Fuse was one of the toughest machine I've ever encountered with lots of new things to learn.
 
 
 ## FIM
