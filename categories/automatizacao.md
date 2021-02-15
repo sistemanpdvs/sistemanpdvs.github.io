@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Automatização
-category: Automatização
+category: automatizacao
 ---
