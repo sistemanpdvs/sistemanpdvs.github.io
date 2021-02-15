@@ -32,6 +32,9 @@ twitter:
   
 telegram:
   username: nilsonlinux            # change to your twitter username
+  
+stack-overflow:
+  username: 10241849/nilsonlinux            # change to your twitter username
 
 social:
   name: Nilsonlinux                  # it will shows as the copyright owner in Footer
