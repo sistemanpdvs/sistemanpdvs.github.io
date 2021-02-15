@@ -8,6 +8,9 @@
   type: telegram
   icon: 'fab fa-telegram'
 -
+  type: vk
+  icon: 'fab fa-vk'
+-
   type: stack-overflow
   icon: 'fab fa-stack-overflow'
 -
@@ -24,9 +27,7 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
--
-  type: vk
-  icon: 'fab fa-vk'
+
 
 # Uncomment and complete the url below to enable more contact options
 # -
