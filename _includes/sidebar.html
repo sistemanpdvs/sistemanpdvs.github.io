@@ -73,7 +73,7 @@
       {%- elsif entry.type == 'telegram' -%}
         https://t.me/{{ site.telegram.username }}
       {%- elsif entry.type == 'stack-overflow' -%}
-        https://stackoverflow.com/user/{{ site.stack-overflow.username }}
+        https://stackoverflow.com/users/{{ site.stack-overflow.username }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
         javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))
