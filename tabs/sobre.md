@@ -28,29 +28,4 @@ Desenvolvedor web e bots para Telegram
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
       </a>
     </div>
-
-    <div class="profile-text mt-3">
-      <div class="site-title">
-        <a href="{{ '/' | relative_url }}">{{- site.title -}}</a>
-      </div>
-      <div class="site-subtitle font-italic">{{- site.tagline -}}</div>
-    </div>
-  </div>
-
-    {% if item.path %}
-      {% assign ref = ref | append: item.path | append: "/" %}
-      {% if item.url %}
-        {% assign ref = ref | append: item.url | append: "/" %}
-      {% endif %}
-    {% endif %}
-
-    <li class="nav-item d-flex justify-content-center
-      {% if item.url == page_urls.last
-        or item.name == page.tab_active
-        or item.name == "Home" and page.layout == "home" %}active{% endif %}">
-      <a href="{{ ref }}" class="nav-link d-flex justify-content-center align-items-center w-100">
-        <i class="fa-fw {{ item.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-        <span>{{ item.name | upcase }}</span>
-      </a>
-    </li> <!-- .nav-item -->
   {% endfor %}
