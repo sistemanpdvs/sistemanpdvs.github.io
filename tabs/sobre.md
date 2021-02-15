@@ -23,7 +23,6 @@ Desenvolvedor web e bots para Telegram
         {% assign avatar_url = site.avatar %}
         {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
           {% assign avatar_url = avatar_url | prepend: site.baseurl %}
-        {% endif %}
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
       </a>
     </div>
