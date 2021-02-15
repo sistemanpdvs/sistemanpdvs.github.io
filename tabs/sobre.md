@@ -15,6 +15,6 @@ Santa Inês - MA / Brasil
 --------------------------
 Desenvolvedor web e bots para Telegram
 ```
-[img-circle]
-assets/img/sample/avatar.png[]
+image:https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/avatar.png[img-circle]
+
 ![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/avatar.png)
