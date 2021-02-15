@@ -5,8 +5,8 @@
 #  MIT Licensed
 
 -
-  type: telegram
-  icon: 'fas fa-telegram-alt'
+  type: stack-overflow
+  icon: 'fas fa-stack-overflow'
 -
   type: github
   icon: 'fab fa-github-alt'
