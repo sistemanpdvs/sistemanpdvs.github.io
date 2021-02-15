@@ -6,7 +6,7 @@
 
 -
   type: telegram
-  icon: 'fab telegram'
+  icon: 'fab fa-telegram'
 -
   type: stack-overflow
   icon: 'fab fa-stack-overflow'
