@@ -6,7 +6,7 @@
 
 -
   type: telegram
-  icon: 'fas fa-whatsapp'
+  icon: 'fas fa-telegram-alt'
 -
   type: github
   icon: 'fab fa-github-alt'
