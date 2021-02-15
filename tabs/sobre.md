@@ -16,8 +16,6 @@ Santa Inês - MA / Brasil
 Desenvolvedor web e bots para Telegram
 ```
 
-<div id="nav-wrapper">
-  <div id="profile-wrapper" class="d-flex flex-column">
     <div id="avatar" class="d-flex justify-content-center">
       <a href="{{ site.baseurl }}/" alt="avatar">
         {% assign avatar_url = site.avatar %}
