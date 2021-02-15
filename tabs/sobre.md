@@ -18,4 +18,7 @@ Desenvolvedor web e bots para Telegram
 
 <img src="/assets/img/sample/avatar.png" alt=".img-responsive .img-circle">
 
+[.img-responsive.img-circle]
+image::/assets/img/sample/avatar.png[] 
+
 ![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/avatar.png)
