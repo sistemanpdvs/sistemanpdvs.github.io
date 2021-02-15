@@ -5,6 +5,9 @@
 #  MIT Licensed
 
 -
+  type: telehram
+  icon: 'fab telegram'
+-
   type: stack-overflow
   icon: 'fab fa-stack-overflow'
 -
