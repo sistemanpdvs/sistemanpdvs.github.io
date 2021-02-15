@@ -12,5 +12,7 @@ title: Sobre
 Nilsonlinux
 email: nilsonlinux@gmail.com
 Santa Inês - MA / Brasil
+--------------------------
+Desenvolvedor web e bots para Telegram
 ```
 ![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/avatar.png)
