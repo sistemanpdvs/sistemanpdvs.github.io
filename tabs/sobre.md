@@ -16,7 +16,6 @@ Santa Inês - MA / Brasil
 Desenvolvedor web e bots para Telegram
 ```
 
-
 <div id="nav-wrapper">
   <div id="profile-wrapper" class="d-flex flex-column">
     <div id="avatar" class="d-flex justify-content-center">
@@ -38,12 +37,6 @@ Desenvolvedor web e bots para Telegram
     </div>
   </div>
 
-  <ul class="nav flex-column">
-  {% assign page_urls = page.url | split: "/" %}
-
-  {% for item in site.data.tabs %}
-    {% assign ref = site.baseurl | append: "/" %}
-
     {% if item.path %}
       {% assign ref = ref | append: item.path | append: "/" %}
       {% if item.url %}
@@ -61,5 +54,3 @@ Desenvolvedor web e bots para Telegram
       </a>
     </li> <!-- .nav-item -->
   {% endfor %}
-
-![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/avatar.png)
