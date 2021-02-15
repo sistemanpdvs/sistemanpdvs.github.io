@@ -5,6 +5,9 @@
 #  MIT Licensed
 
 -
+  type: telegram
+  icon: 'fas fa-telegram'
+-
   type: github
   icon: 'fab fa-github-alt'
 -
@@ -18,9 +21,6 @@
   type: rss
   icon: 'fas fa-rss'
   noblank: true
--
-  type: telegram
-  icon: 'fas fa-telegram'
 -
   type: facebook
   icon: 'fas fa-facebook'
