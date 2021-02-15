@@ -46,11 +46,4 @@ o conhecimento.
 > Fuse was one of the toughest machine I've ever encountered with lots of new things to learn.
 
 
-## Reconnaissance
-
-Let's begin with `nmap` to identify open TCP and UDP ports
-
-
-And we pwned the Box !
-
-Thanks for reading, Suggestions & Feedback are appreciated !
+## FIM
