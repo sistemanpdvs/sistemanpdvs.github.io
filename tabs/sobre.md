@@ -20,8 +20,7 @@ title: Sobre
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
       </a>
     </div>
-
-
+{% endif %}
 
 ```python
 Nilsonlinux
