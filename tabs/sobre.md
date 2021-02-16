@@ -15,7 +15,8 @@ title: Sobre
         {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
           {% assign avatar_url = avatar_url | prepend: site.baseurl %}
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
-#####################
+        
+[//]: <> (This is also a comment.)
         
 ```python
 Nilsonlinux
