@@ -6,34 +6,54 @@ order: 5
 
 ## Contatos
 
-<form action="//formspree.io/{{ site.email }}" method="POST" role="form" id="contact-form" data-toggle="validator">
-	<div class="row">
-		<div class="col-md-6">
-			<div class="form-group">
-				<label for="Nome">Nome</label>
-				<input type="text" class="form-control" id="nome" name="Nome" placeholder="Seu nome" minlength="5" maxlength="32" required>
-				<div class="help-block with-errors"></div>
-			</div>
-		</div>
-		<div class="col-md-6">
-			<div class="form-group">
-				<label for="E-mail">E-mail</label>
-				<input type="email" class="form-control" id="email" name="E-mail" placeholder="Seu e-mail" required>
-				<div class="help-block with-errors"></div>
-			</div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-12">
-			<div class="form-group">
-				<label for="Mensagem">Mensagem</label>
-				<textarea name="Mensagem" class="form-control" rows="5" placeholder="Sua mensagem" minlength="20" maxlength="2048" required></textarea>
-				<div class="help-block with-errors"></div>
-			</div>
-			<div class="form-group">
-				<button type="submit" class="btn btn-primary pull-right">Enviar</button>
-			</div>
-		</div>
-	</div>
-	<div class="alert" style="display: none; margin-top: 10px"></div>
-</form>
+<!-- START HERE -->
+   <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+   <!-- Style The Contact Form How Ever You Prefer -->
+   <link rel="stylesheet" href="/css/form.css">
+
+  <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
+  action="https://script.google.com/macros/s/AKfycbyRKyzxKkTwuRcW1Au3ovCe-AuuBh1weeBE_KsKQQ/exec">
+    <!-- change the form action to your script url -->
+    <div class="form-elements">
+      <fieldset class="pure-group">
+        <label for="name">Nome: </label>
+        <input id="name" name="name" required placeholder="Digite seu nome" />
+      </fieldset>
+
+      <fieldset class="pure-group">
+        <label for="email"><em>Seu</em> Endereço de email:</label>
+        <input id="email" name="email" type="email" value=""
+        required placeholder="seu.nome@email.com"/>
+        <span class="email-invalid" style="display:none">
+          Digite um email válido</span>
+      </fieldset>
+
+      <fieldset class="pure-group">
+        <label for="assunto">Assunto: </label>
+        <input id="assunto" name="assunto" required placeholder="Assunto"></textarea>
+      </fieldset>
+
+      <fieldset class="pure-group">
+        <label for="message">Mensagem: </label>
+        <textarea id="message" name="message" rows="7"
+        required placeholder="Digite sua mensagem..."></textarea>
+      </fieldset>
+
+      <button class="button-success pure-button button-xlarge">
+        <i class="fa fa-paper-plane"></i>&nbsp;Enviar</button>
+    </div>
+
+    <!-- Customise the Thankyou Message People See when they submit the form: -->
+    <div class="thankyou_message" style="display:none;">
+      <center><h2>Opa! Sua mensagem acabou de chegar em minha caixa de entrada!
+        Responderei assim que possível. Obrigado brother!</h2></center>
+                  <center><img src="/images/send.gif" width="600" height="370"></center>
+    </div>
+
+  </form>
+
+  <!-- Submit the Form to Google Using "AJAX" -->
+  <script data-cfasync="false" type="text/javascript"
+  src="/script/form-submission-handler.js"></script>
+<!-- END -->
