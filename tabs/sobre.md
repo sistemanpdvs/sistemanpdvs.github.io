@@ -24,3 +24,12 @@ Desenvolvedor web e bots para Telegram
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
       </a>
     <div>
+
+
+```python
+Nilsonlinux
+email: nilsonlinux@gmail.com
+Santa Inês - MA / Brasil
+--------------------------
+Desenvolvedor web e bots para Telegram
+```
