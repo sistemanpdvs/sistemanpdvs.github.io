@@ -76,6 +76,8 @@
         https://vk.com/{{ site.vk.username }}
       {%- elsif entry.type == 'stack-overflow' -%}
         https://stackoverflow.com/users/{{ site.stack-overflow.username }}
+      {%- elsif entry.type == 'linkedin' -%}
+        https://www.linkedin.com/in/{{ site.linkedin.username }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
         javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))
