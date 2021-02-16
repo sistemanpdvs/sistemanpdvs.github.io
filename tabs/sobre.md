@@ -8,14 +8,6 @@ title: Sobre
 # MIT License
 ---
 
-```python
-Nilsonlinux
-email: nilsonlinux@gmail.com
-Santa Inês - MA / Brasil
---------------------------
-Desenvolvedor web e bots para Telegram
-```
-
   <div id="profile-wrapper" class="d-flex flex-column">
     <div id="avatar" class="d-flex justify-content-center">
       <a href="{{ site.baseurl }}/" alt="avatar">
@@ -23,8 +15,8 @@ Desenvolvedor web e bots para Telegram
         {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
           {% assign avatar_url = avatar_url | prepend: site.baseurl %}
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
-
-
+#####################
+        
 ```python
 Nilsonlinux
 email: nilsonlinux@gmail.com
