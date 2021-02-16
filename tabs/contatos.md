@@ -13,7 +13,7 @@ order: 5
    <link rel="stylesheet" href="/css/form.css">
 
   <form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
-  action="https://script.google.com/macros/s/AKfycbyRKyzxKkTwuRcW1Au3ovCe-AuuBh1weeBE_KsKQQ/exec">
+  action="https://script.google.com/macros/s/AKfycbzMSuwbT1AC48fP7BxzUWf1DPALk5V7WjfD3jjnZ98/exec">
     <!-- change the form action to your script url -->
     <div class="form-elements">
       <fieldset class="pure-group">
