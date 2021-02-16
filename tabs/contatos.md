@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Contatos
+icon: fas fa-mail
+order: 5
 ---
 
 <h1 class="page-header">{{ page.title }}</h1>
