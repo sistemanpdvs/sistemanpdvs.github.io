@@ -20,10 +20,7 @@ Desenvolvedor web e bots para Telegram
     <div id="avatar" class="d-flex justify-content-center">
       <a href="{{ site.baseurl }}/" alt="avatar">
         {% assign avatar_url = site.avatar %}
-        {% capture start %}{{ site.avatar | slice: 0 }}{% endcapture %}
-        {% if start == '/' %}
           {% assign avatar_url = avatar_url | prepend: site.baseurl %}
-        {% endif %}
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
       </a>
     <div>
