@@ -4,7 +4,7 @@ icon: fas fa-mail
 order: 5
 ---
 
-<h1 class="page-header">{{ page.title }}</h1>
+## Contatos
 
 <form action="//formspree.io/{{ site.email }}" method="POST" role="form" id="contact-form" data-toggle="validator">
 	<div class="row">
