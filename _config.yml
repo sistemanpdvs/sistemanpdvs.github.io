@@ -67,7 +67,7 @@ baseurl: ''
 timezone: America/Fortaleza
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'UA-122784671-2'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -130,7 +130,7 @@ defaults:
       location: Post
       breadcrumb:
         -
-          label: Últimas atualizações
+          label: Postagens
           url: /
   -
     scope:
