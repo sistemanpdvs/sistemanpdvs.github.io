@@ -19,8 +19,6 @@ Desenvolvedor web e bots para Telegram
   <div id="profile-wrapper" class="d-flex flex-column">
     <div id="avatar" class="d-flex justify-content-center">
       <a href="{{ site.baseurl }}/" alt="avatar">
-        {% assign avatar_url = site.avatar %}
-          {% assign avatar_url = avatar_url | prepend: site.baseurl %}
         <img src="{{ avatar_url }}" alt="avatar" onerror="this.style.display='none'">
 
 
