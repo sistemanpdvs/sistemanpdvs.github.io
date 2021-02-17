@@ -4,8 +4,8 @@ icon: fas fa-mail
 order: 5
 ---
 
-<div class="col s12">
-  <div class="icontain">
+  </div>
+</div>
     <iframe src="{{site.contact_url}}">Loading...</iframe>
   </div>
 </div>
