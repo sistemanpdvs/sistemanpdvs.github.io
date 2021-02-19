@@ -6,7 +6,7 @@ categories: []
 tags:
 - informacao
 mathjax: true
-
+pin: true
 ---
   |  LOJA | TEF  | NOME / CIDADE                         | FAIXA |
   |:-----:|:----:|:-------------------------------------:|:-----:|
