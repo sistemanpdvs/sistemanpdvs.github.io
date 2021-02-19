@@ -8,17 +8,17 @@ tags:
 mathjax: true
 
 ---
-  |  LOJA | TEF  | NOME / CIDADE                                                    | FAIXA |
-  |:-----:|:----:|:----------------------------------------------------------------:|:-----:|
-  | `03`  |`3`   | MATEUS SANTA INÊS                                                | `3`   |
-  | `32`  |`69`  | MIX MATEUS - TIMON                                               | `46`  |
-  | `39`  |`116` | MIX MATEUS - CHAPADINHA                                          | `114` |
-  | `40`  |`178` | MATEUS BARRA DO CORDA                                            | `231` |
-  | `41`  |`134` | MIX MATEUS - CAXIAS                                              | `11`  |
-  | `42`  |`183` | MATEUS - SUPER PRESIDENTE DUTRA                                  | `139` |
-  | `47`  |`118` | MIX MATEUS - BACABAL                                             | `115` |
-  | `48`  |`99`  | MIX MATEUS- PEDREIRAS                                            | `93`  |
-  | `91`  |`45`  | MIX MATEUS - SANTA INES                                          | `91`  |
+  |  LOJA | TEF  | NOME / CIDADE                         | FAIXA |
+  |:-----:|:----:|:-------------------------------------:|:-----:|
+  | `03`  |`3`   | MATEUS SANTA INÊS                     | `3`   |
+  | `32`  |`69`  | MIX MATEUS - TIMON                    | `46`  |
+  | `39`  |`116` | MIX MATEUS - CHAPADINHA               | `114` |
+  | `40`  |`178` | MATEUS BARRA DO CORDA                 | `231` |
+  | `41`  |`134` | MIX MATEUS - CAXIAS                   | `11`  |
+  | `42`  |`183` | MATEUS - SUPER PRESIDENTE DUTRA       | `139` |
+  | `47`  |`118` | MIX MATEUS - BACABAL                  | `115` |
+  | `48`  |`99`  | MIX MATEUS- PEDREIRAS                 | `93`  |
+  | `91`  |`45`  | MIX MATEUS - SANTA INES               | `91`  |
   | `97`  |`179` | MIX MATEUS TERESINA - CEASA           | `160` |
   | `99`  |`130` | MIX MATEUS - PINHEIRO                 | `117` |
   | `55`  |`61`  | ELETRO MATEUS - PRES. DUTRA           | `55`  |
