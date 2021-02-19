@@ -8,8 +8,8 @@ pin: false
 ---
 
 
-## Vamos lá, pra tirar uma nota da portaria não é somente excluir,
-tem todo um procedimento por traz, se a loja nao for mais fazer o recebimento da nota, 
+Vamos lá, pra tirar uma nota da portaria não é somente ```excluir.```
+Tem todo um procedimento por traz. Se a loja nao for mais fazer o recebimento da nota, 
 deve primeiro solicitar ao comprador que manifeste a nota, deixando a assim a nf sem utilidade.
 Após isso a nota será excluida automaticamente da portaria, 
 entretanto se a o comprador manifestou a nota e ainda assim continua na portaria 
