@@ -1,7 +1,7 @@
 ---
 title:  Saiba o procedimento para remover nota da portaria.
 author: Nilsonlinux
-date: 2021-02-19 20:21:00 +03
+date: 2021-02-19 20:21:00 -03:00
 categories: [Gmcore, Tutorial]
 tags: [ajuda, gmcore]
 pin: false
