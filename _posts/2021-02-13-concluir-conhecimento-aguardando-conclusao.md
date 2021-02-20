@@ -6,7 +6,6 @@ categories: Gmcore Tutorial
 tags: gmcore ajuda
 ---
 
-
 ### GMCORE
 
 Quando o recebimento identificar como falta algum produto e necessitar fazer a devoluçao no ato
