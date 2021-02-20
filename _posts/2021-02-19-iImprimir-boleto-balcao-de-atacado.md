@@ -1,5 +1,5 @@
 ---
-title:  Saiba o procedimento para remover nota da portaria.
+title:  Imprimir boleto balcao de atacado.
 author: Nilsonlinux
 date: 2021-02-19 20:51:30 -03:00
 categories: [Gmcore, Tutorial]
