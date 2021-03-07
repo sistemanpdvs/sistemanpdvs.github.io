@@ -1,5 +1,5 @@
 ---
-title: Reimpressão de Capa da Carta credito
+title: Reimpressão de Capa da Carta credito.
 author: Nilsonlinux
 date: 2021-03-04 13:16:31 -03:00
 categories: [Gmcore, Tutorial]
