@@ -39,7 +39,7 @@ pin: true
   | `177` |`166` | ELETRO MATEUS - ITAPECURUMIRIM        | `178` |
   | `182` |`164` | ELETRO MATEUS - CODO SAO SEBASTIAO    | `184` |
   | `183` |`200` | ELETRO MATEUS KENNEDY                 | `204` |
-  | `189` |`199` | ELETRO MATEUS - PRESIDENTE DUTRA II   | `221` |
+  | `189` |`199` | ELETRO MATEUS - PRESIDENTE DUTRA II   | `211` |
   | `192` |`208` | ELETRO MATEUS VARGEM GRANDE           | ` ✗ ` |
   | `196` |`201` | ELETRO MATEUS VITORINO FREIRE         | `212` |
   | `602` |`209` | ELETRO MATEUS CEASA                   | `141` |
