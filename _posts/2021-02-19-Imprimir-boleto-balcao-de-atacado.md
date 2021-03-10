@@ -1,5 +1,5 @@
 ---
-title:  Imprimir boleto balcao de atacado.
+title:  Imprimir boleto balcão de atacado.
 author: Nilsonlinux
 date: 2021-02-19 20:51:30 -03:00
 categories: [Gmcore, Tutorial]
