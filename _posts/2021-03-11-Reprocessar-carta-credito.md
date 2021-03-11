@@ -7,7 +7,6 @@ tags: [ajuda, gmcore]
 pin: false
 ---
 
-REPROCESSAR CARTA CREDITO
 
 
 1. Abrir a rotina 641 e no botao devolução preencher todos os campos novamente com loja pdv
