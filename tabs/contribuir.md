@@ -12,7 +12,7 @@ order: 4
 ```yaml
 CHAVE PIX: nilsonlinux@gmail.com
 ```
-![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/pix_mail.jpg)
+![PIX](https://raw.githubusercontent.com/sistemanpdvs/sistemanpdvs.github.io/master/assets/img/sample/pix.jpg)
 
 <kbd>Obrigado...</kbd>
 
